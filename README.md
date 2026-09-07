@@ -2,8 +2,6 @@
 
 Sistema web de inventario construido con **PHP 8 y MySQL en PHP puro** (sin frameworks), aplicando el patrón **MVC** con arquitectura propia: front controller, enrutador, controladores, modelos con **PDO** y vistas.
 
-> Proyecto 3 del portafolio para la postulación a **Practicante Backend – TEINOR S.A.C.**
-
 ## 🧰 Stack
 
 - **PHP 8** (CLI) + servidor integrado
